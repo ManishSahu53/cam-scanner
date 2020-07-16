@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libWarping.a  CMakeFiles/Warping.dir/Warping.cpp.o
+/usr/bin/ranlib ../../../lib/libWarping.a

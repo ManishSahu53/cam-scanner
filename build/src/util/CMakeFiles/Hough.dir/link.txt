@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libHough.a  CMakeFiles/Hough.dir/Hough.cpp.o
+/usr/bin/ranlib ../../../lib/libHough.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -fPIC  -rdynamic CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main -lX11 ../../lib/libHough.a ../../lib/libWarping.a -lpthread 

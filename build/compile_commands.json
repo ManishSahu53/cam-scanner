@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/manishsahu-xps/Downloads/tiler/A4-paper-sheet-detection-and-cropping/build/src",
+  "command": "/usr/bin/g++-7   -isystem /usr/include/eigen3 -I/home/manishsahu-xps/Downloads/tiler/A4-paper-sheet-detection-and-cropping/lib -I/home/manishsahu-xps/Downloads/tiler/A4-paper-sheet-detection-and-cropping/include  -Wall -Wextra -fPIC -g   -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /home/manishsahu-xps/Downloads/tiler/A4-paper-sheet-detection-and-cropping/src/main.cpp",
+  "file": "/home/manishsahu-xps/Downloads/tiler/A4-paper-sheet-detection-and-cropping/src/main.cpp"
+}
+]
