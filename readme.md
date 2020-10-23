@@ -41,16 +41,4 @@ Here I have two datasets prepared by Kun Zeng for test. (All results also have b
 ### Utils
 By default, the results `*_marked.bmp` (marked with paper corners and edges) and `*_A4.bmp` (cropped paper sheet in A4 paper size) of each images will be saved in the same folder of the test dataset. The intermediate results of `blur`, `gradients` and `hough_space` will be displayed but not saved. You can set this in constructor `Hough::Hough()` of `Hough.cpp`.
 
-## Results
-Here I take two examples from two datasets. The intermediate process is shown.
-### Dataset1
-NO.14 image (scale by 45%)
-
-<img src="dataset1/14.bmp" width="45%" /> <img src="dataset1/blur.bmp" width="45%" /> <img src="dataset1/gradient.bmp" width="45%" /> <img src="dataset1/14_marked.bmp" width="45%" /> <img src="dataset1/hough_space.bmp" width="45%" /> <img src="dataset1/hough_space2.bmp" width="45%" /> <img src="dataset1/14_A4.bmp" width="45%" />
-
-
-### Dataset2
-NO.4 image (scale by 40%)
-
-<img src="dataset2/4.bmp" width="40%" /> <img src="dataset2/blur.bmp" width="40%" /> <img src="dataset2/gradient.bmp" width="40%" /> <img src="dataset2/4_marked.bmp" width="40%" /> <img src="dataset2/hough_space.bmp" width="40%" /> <img src="dataset2/hough_space2.bmp" width="40%" /> <img src="dataset2/4_A4.bmp" width="40%" />
 
